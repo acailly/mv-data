@@ -5,7 +5,8 @@
 			"text": "Tache 1"
 		},
 		{
-			"done": false
+			"done": false,
+			"text": "TO"
 		}
 	]
 }
